@@ -147,6 +147,7 @@ Step by step guide to becoming a modern Java developer
 
 ## Intermediate Stage 1
 Comfortable with most of the topics till here!!!!
+I know about OOPS in java , Spring boot and have done some projects in it
    
 ### [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
