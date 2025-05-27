@@ -146,6 +146,7 @@ Step by step guide to becoming a modern Java developer
  - [ ] 10 - Using Hibernate with Spring
 
 ## Intermediate Stage 1
+Comfortable with most of the topics till here!!!!
    
 ### [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
