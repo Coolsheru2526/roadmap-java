@@ -83,12 +83,12 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [x] Regular Expressions
- - [x] Input & Output (I/O), Working with Files in Java
- - [x] Concurrency
- - [x] Working with Databases
- - [x] Java Networking with Channels, Reactive Programming, and Virtual Threads
- - [x] Debugging and Unit Testing
+ - [] Regular Expressions
+ - [] Input & Output (I/O), Working with Files in Java
+ - [] Concurrency
+ - [] Working with Databases
+ - [] Java Networking with Channels, Reactive Programming, and Virtual Threads
+ - [] Debugging and Unit Testing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
@@ -107,43 +107,43 @@ Step by step guide to becoming a modern Java developer
 
 ### [Spring Framework](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
 
- - [x]  01 - Understanding Dependency Injection
- - [x]  02 - Setting Up
- - [x]  03 - Understanding Spring Bean Factory
- - [x]  04 - Writing Code Using the Bean Factory
- - [x]  05 - ApplicationContext and Property Initialization
- - [x]  06 - Using Constructor Injection
- - [x]  07 - Injecting Objects
- - [x]  08 - Inner Beans, Aliases and idref
- - [x]  09 - Initializing Collections
- - [x]  10 - Bean Autowiring
- - [x]  11 - Understanding Bean Scopes
- - [x]  12 - Using ApplicationContextAware
- - [x]  13 - Bean Definition Inheritance
- - [x]  14 - Lifecycle Callbacks
- - [x]  15 - Writing a BeanPostProcessor
- - [x]  16 - Writing a BeanFactoryPostProcessor
- - [x]  17 - Coding To Interfaces
- - [x]  18 - Introduction to Annotations and the Required Annotation
- - [x]  19 - The Autowired Annotation
- - [x]  20 - Some JSR-250 Annotations
- - [x]  21 - Component and Stereotype Annotations
- - [x]  22 - Using MessageSource To Get Text From Property Files
- - [x]  23 - Event Handling in Spring
- - [x]  24 - Introduction to AOP
+ - []  01 - Understanding Dependency Injection
+ - []  02 - Setting Up
+ - []  03 - Understanding Spring Bean Factory
+ - []  04 - Writing Code Using the Bean Factory
+ - []  05 - ApplicationContext and Property Initialization
+ - []  06 - Using Constructor Injection
+ - []  07 - Injecting Objects
+ - []  08 - Inner Beans, Aliases and idref
+ - []  09 - Initializing Collections
+ - []  10 - Bean Autowiring
+ - []  11 - Understanding Bean Scopes
+ - []  12 - Using ApplicationContextAware
+ - []  13 - Bean Definition Inheritance
+ - []  14 - Lifecycle Callbacks
+ - []  15 - Writing a BeanPostProcessor
+ - []  16 - Writing a BeanFactoryPostProcessor
+ - []  17 - Coding To Interfaces
+ - []  18 - Introduction to Annotations and the Required Annotation
+ - []  19 - The Autowired Annotation
+ - []  20 - Some JSR-250 Annotations
+ - []  21 - Component and Stereotype Annotations
+ - []  22 - Using MessageSource To Get Text From Property Files
+ - []  23 - Event Handling in Spring
+ - []  24 - Introduction to AOP
 
 ### [Spring Data Support](https://www.youtube.com/watch?v=eR_JFtqyNL4&list=PL1A506B159E5BD13E)
 
- - [x] 01 - Introduction to Spring Data and Setting Up
- - [x] 02 - Using JDBC without Spring
- - [x] 03 - Adding Spring and DataSource Configuration
- - [x] 04 - Using JdbcTemplate
- - [x] 05 - Returning Other Datatypes from JdbcTemplate
- - [x] 06 - Implementing RowMapper
- - [x] 07 - Performing Write Operations with JdbcTemplate
- - [x] 08 - Named Parameter JDBC Template
- - [x] 09 - DAO Support Classes
- - [x] 10 - Using Hibernate with Spring
+ - [] 01 - Introduction to Spring Data and Setting Up
+ - [] 02 - Using JDBC without Spring
+ - [] 03 - Adding Spring and DataSource Configuration
+ - [] 04 - Using JdbcTemplate
+ - [] 05 - Returning Other Datatypes from JdbcTemplate
+ - [] 06 - Implementing RowMapper
+ - [] 07 - Performing Write Operations with JdbcTemplate
+ - [] 08 - Named Parameter JDBC Template
+ - [] 09 - DAO Support Classes
+ - [] 10 - Using Hibernate with Spring
 
 ## Intermediate Stage 1
 Comfortable with most of the topics till here!!!!
